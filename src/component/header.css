@@ -1,0 +1,19 @@
+.head{
+    display: flex;
+    flex-wrap: wrap;
+}
+.department{
+    width: 60%;
+}
+.search{
+    width: 20%;
+}
+.departmentNav{
+    position: absolute;
+    right: 0;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
